@@ -7,7 +7,7 @@
 ### http://www.rubyonrailstutor.com
 
 
-# john@rubyonrailstutor.com
+## john@rubyonrailstutor.com
 
 to run this blog
 
